@@ -5,9 +5,15 @@
 - HTML
 - CSS
 
+## How to View
+Select your index.html in VS code
+Then click on Go Live and check your browser
+
 ## Authors
 👤 Author
 GitHub: [@gabrielodunuga](https://github.com/gabrielodunuga)
+
+Cloned from: (https://www.newscientist.com/article/2286218-ancient-lake-in-marss-gale-crater-may-have-actually-been-a-small-pond/)
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!
