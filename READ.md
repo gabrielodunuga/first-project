@@ -1,37 +1,29 @@
-# New Scientist News Page
+# New Scientist News Page Clone
 
-A responsive HTML/CSS landing page inspired by New Scientist.
+A HTML/CSS landing page inspired by [New Scientist](https://www.newscientist.com/article/2286218-ancient-lake-in-marss-gale-crater-may-have-actually-been-a-small-pond/)
 
-## 🚀 Live Demo
-No deployed live URL yet. To preview locally:
-1. Open `index.html` in VS Code.
-2. Click **Go Live** (Live Server extension).
-3. Open `http://127.0.0.1:5500/index.html`.
+![App Screenshot](file:///C:/Users/RDT%20SOLUTION%20LIMITED/Pictures/Screenshots/Screenshot%202026-03-18%20132934.png)
 
-## ✅ Project Files
-- `index.html` — main page content
-- `style.css` — styling for page layout
-- `advert.html` — Lighthouse/CI demo page
-- `Assets/` — icons and images
+## Live Demo
+[Live Demo link](https://gabrielodunuga.github.io/first-project/)
 
-## 🧰 Built With
+
+## Project Files
+- index.html — main page content
+- style.css - style page content
+- Assets — icons and images
+
+## Built With
 - HTML5
 - CSS3
-- GitHub Actions for project linting
-
-## 🔧 How to Run Locally
-```bash
-# Open project in VS Code
-# Start Live Server on index.html
-```
 
 ## 👤 Author
 Gabriel Odunuga
 GitHub: [@gabrielodunuga](https://github.com/gabrielodunuga)
 
-## 📌 Notes
-- Keep `style.css` linked from your HTML pages.
-- `advert.html` now contains actual content so Lighthouse can run.
+## Contributions
+- Contributions, issues, and feature requests are welcome!
+
 
 ## ⭐ Support
 Give a ⭐️ if you like this project!
