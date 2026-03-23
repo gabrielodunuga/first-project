@@ -2,7 +2,7 @@
 
 A HTML/CSS landing page inspired by [New Scientist](https://www.newscientist.com/article/2286218-ancient-lake-in-marss-gale-crater-may-have-actually-been-a-small-pond/)
 
-![App Screenshot](file:///C:/Users/RDT%20SOLUTION%20LIMITED/Pictures/Screenshots/Screenshot%202026-03-18%20132934.png)
+![App Screenshot](Assets/Screenshot.png)
 
 ## Live Demo
 [Live Demo link](https://gabrielodunuga.github.io/first-project/)
